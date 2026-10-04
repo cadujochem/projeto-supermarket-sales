@@ -1,17 +1,6 @@
-# ==========================================
-# MINHAS REGRAS PERSONALIZADAS DO PROJETO
-# ==========================================
-# Ignora as pastas pesadas de dados
-data/
-
-#ignora pastas pesadas
-data/raw/*
-
-==========================================
 
 # REGRAS PADRÃO DO GITHUB PARA PYTHON (Abaixo)
 # ==========================================
-# (Aqui começa toda aquela lista gigante que o GitHub colocou...)
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
