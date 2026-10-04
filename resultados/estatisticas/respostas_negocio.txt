@@ -1,0 +1,9 @@
+=== RELATÓRIO DE VENDAS - PERGUNTAS DE NEGÓCIO ===
+1. Filial com maior faturamento: Giza (Total: 110568.71)
+2. Filial com maior quantidade de vendas: Alex (340 vendas)
+3. Linha de produto com maior faturamento: Food and beverages (Total: 56144.84)
+4. Linha de produto com melhor avaliação média: Food and beverages (Nota: 7.11)
+5. Forma de pagamento mais utilizada: Ewallet (345 transações)
+6. Valor médio das vendas (Ticket Médio): 322.97
+7. Maior venda registrada: 1042.65
+8. Dia da semana com maior quantidade de vendas: Sábado (164 vendas)
